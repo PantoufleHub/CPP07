@@ -1,5 +1,5 @@
 NAME		= startwithafewfunctions
-SRCS		= main.cpp 
+SRCS		= main.cpp
 FLAGS		= -Wall -Werror -Wextra -std=c++98
 CC			= c++
 
